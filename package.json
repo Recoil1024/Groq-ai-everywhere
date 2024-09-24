@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node server.js "
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "chatgpt": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.21.0",
+    "groq": "^3.57.4",
+    "groq-sdk": "^0.7.0",
+    "node-fetch": "^3.3.0",
+    "openai": "^4.63.0",
+    "ora": "^6.3.1"
+  },
+  "type": "module"
+}
